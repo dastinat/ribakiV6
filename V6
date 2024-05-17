@@ -107,7 +107,7 @@ local Window = Rayfield:CreateWindow({
 		}
 		
 		local tolerance = 2 -- Adjust this value to change how close the object needs to get to the target position
-		local speed = 80 -- Adjust this value to change the movement speed
+		local speed = 70 -- Adjust this value to change the movement speed
 		local waitTime = 1.5 -- Adjust this value to change the wait time between positions (in seconds)
 		
 		-- Loop through each target position
